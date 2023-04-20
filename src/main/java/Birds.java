@@ -22,8 +22,7 @@ public class Birds extends Species{
     /**
      * @return the flyingSpeed
      */
-
-    int i = 0;
+    
     public int getFlyingSpeed() {
         return flyingSpeed;
     }
