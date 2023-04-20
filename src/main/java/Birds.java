@@ -10,6 +10,7 @@
 public class Birds extends Species{
     
     private int flyingSpeed;
+    private int done;
 
     //bird constructor
 
